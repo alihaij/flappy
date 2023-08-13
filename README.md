@@ -1,4 +1,5 @@
 # Flappy Learning ([Demo](http://xviniette.github.io/FlappyLearning/))
+to test web https://alihaij.github.io/flappy/
 
 Program that learns to play Flappy Bird by machine learning ([Neuroevolution](http://www.scholarpedia.org/article/Neuroevolution))
 
